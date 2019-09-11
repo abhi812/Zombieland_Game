@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\n\ Zombie\ enemy\ that\ chases\ the\ player,\ checks\ how\ many\ are\ alive\ and\ triggers\ a\ spawning\ of\ more,\ \r\n\ and\ has\ animation\ frames.\ \ \r\n\ \r\n\ @author\ Abhishek\ Kumar,\ with\ contributions\ by\ Chris\ Harding\ \r\n\ @version\ May\ 4\ 2018\r\n
+comment1.params=
+comment1.target=Zombie()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Zombie\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkZombie()
+comment4.params=
+comment4.target=void\ chasePlayer()
+comment5.params=
+comment5.target=void\ animate()
+numComments=6

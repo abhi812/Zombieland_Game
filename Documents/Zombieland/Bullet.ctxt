@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Handle\ bullet\ travel\ and\ zombie\ interaction\r\n\ \r\n\ @author\ Abhishek\ Kumar\ \r\n\ @version\ May\ 4\ 2018\r\n
+comment1.params=
+comment1.target=Bullet()
+comment2.params=rotation
+comment2.target=Bullet(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkZombieHit()
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Survivor
+comment0.text=\r\n\ Handles\ details\ of\ the\ player's\ character.\ Has\ a\ movement\ speed\ and\ reload\ speed,\ \r\n\ and\ accepts\ keyboard\ and\ mouse\ input\ for\ control\r\n\ \r\n\ @author\ Chris\ Harding\ \r\n\ @version\ May\ 4\ 2018\r\n
+comment1.params=
+comment1.target=Survivor()
+comment1.text=\r\n\ shoot02.mp3\ created\ by\ Taira\ Komori\r\n\ Downloaded\ from\ https\://freesound.org/people/Taira%20Komori/sounds/215438/\r\n
+comment2.params=
+comment2.target=int\ getCharSpeed()
+comment3.params=charSpeed
+comment3.target=void\ setCharSpeed(int)
+comment4.params=
+comment4.target=void\ increaseCharSpeed()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ checkKeys()
+comment7.params=
+comment7.target=void\ fire()
+comment7.text=\r\n\ Fire\ a\ bullet\ if\ the\ gun\ is\ ready.\r\n
+comment8.params=
+comment8.target=void\ checkAttack()
+numComments=9
